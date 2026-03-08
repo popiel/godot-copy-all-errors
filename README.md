@@ -47,7 +47,7 @@ W 0:00:03:012   AnotherScript.gd:10 — UNUSED_VARIABLE
 
 ## Compatibility
 
-- **Godot 4.0+** (tested on 4.3 / 4.4)
+- **Godot 4.0+** (tested on 4.5 / 4.6.1)
 - Works on Windows, macOS, and Linux
 
 ## License
