@@ -24,7 +24,10 @@ A simple Godot 4.x editor plugin that adds a **"Copy All"** button to the Debugg
 
 ### From Godot Asset Library
 
-_(Coming soon)_
+1. In Godot, go to **AssetLib** tab at the top of the editor.
+2. Search for **"Copy All Errors"**.
+3. Click **Download** → **Install**.
+4. Enable the plugin in **Project → Project Settings → Plugins**.
 
 ## Usage
 
